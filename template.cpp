@@ -1,11 +1,11 @@
 /****************** About Me ********************/
-/*									 			*/
-/*		Codechef: superazad						*/
-/*		GFG: amitazadi							*/
-/*		leetcode: amitazadi						*/
-/*		Github: amitazadi						*/
-/*		Hackerrank: amitazadi					*/
-/*												*/
+/*						*/
+/*	Codechef: superazad			*/
+/*	GFG: amitazadi				*/
+/*	leetcode: amitazadi			*/
+/*	Github: amitazadi			*/
+/*	Hackerrank: amitazadi			*/
+/*						*/
 /****************** About Me ********************/
 
 #include <bits/stdc++.h>
