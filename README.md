@@ -4,6 +4,5 @@
 
 <h3> If you find something to add in this template, please feel free to do pull request.</h1>
 
-<h3>Thanking You...</h3>
 
 
